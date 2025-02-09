@@ -1,75 +1,18 @@
-<header>
+تهدیدات **دونالد ترامپ** و سیاست‌های او در قبال تجارت جهانی و تحریم‌های بین‌المللی می‌توانند تأثیر مستقیمی بر بازار **سولفات نیکل** داشته باشند. ترامپ که به سیاست‌های تجاری سخت‌گیرانه و تحریم‌های شدید علیه برخی کشورها، به‌ویژه چین و ایران، مشهور است، در صورت بازگشت به قدرت، احتمال دارد محدودیت‌های جدیدی را در زنجیره تأمین فلزات استراتژیک مانند **نیکل، کبالت و لیتیم** اعمال کند.  
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+### **۱. تأثیر تحریم‌های احتمالی ترامپ بر تولید و صادرات سولفات نیکل**  
+https://goharfam.com/%d8%b3%d9%88%d9%84%d9%81%d8%a7%d8%aa-%d9%86%db%8c%da%a9%d9%84-%d9%85%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d8%a7%d8%af%d9%87-%d9%85%d8%b5%d8%b1%d9%81%db%8c-%d8%a2%d8%a8%da%a9%d8%a7%d8%b1%db%8c/
+سولفات نیکل یک ماده کلیدی در **تولید باتری‌های لیتیوم-یون** است و کشورهای پیشرفته مانند **چین، اتحادیه اروپا و آمریکا** از مصرف‌کنندگان اصلی آن محسوب می‌شوند. اگر ترامپ سیاست‌های سخت‌گیرانه‌تری علیه چین و سایر تأمین‌کنندگان نیکل وضع کند، ممکن است قیمت سولفات نیکل افزایش یابد و دسترسی به این ماده برای برخی کشورها دشوار شود.  
 
-# GitHub Pages
+برای ایران، هرگونه **تحریم جدید علیه بخش معدن و فلزات** می‌تواند صادرات ترکیبات نیکل، ازجمله **سولفات نیکل** را محدود کند. این موضوع به‌ویژه برای **شرکت‌هایی مانند مواد پژوهان گوهرفام** که تولیدکننده اصلی سولفات نیکل در ایران هستند، چالش‌هایی ایجاد خواهد کرد.  https://goharfam.com/Products/%d9%86%db%8c%d8%aa%d8%b1%d8%a7%d8%aa-%d9%86%db%8c%da%a9%d9%84-6-%d8%a2%d8%a8%d9%87/
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+### **۲. تأثیر بر قیمت جهانی سولفات نیکل**  
+- **در صورت اعمال تعرفه‌ها و محدودیت‌های تجاری جدید علیه چین**، تولیدکنندگان چینی سولفات نیکل ممکن است با مشکل تأمین مواد اولیه مواجه شوند که منجر به کاهش عرضه و افزایش قیمت خواهد شد.  
+- **تحریم‌های احتمالی علیه معادن نیکل در کشورهای تأمین‌کننده مانند روسیه و اندونزی**، زنجیره تأمین جهانی را مختل کرده و قیمت‌ها را بیشتر افزایش خواهد داد.  
+- **درگیری‌های ژئوپلیتیکی و سیاست‌های ترامپ علیه ایران**، صادرات نیکل و سولفات نیکل ایران را دشوارتر خواهد کرد و تولیدکنندگان داخلی مجبور به تمرکز بیشتر بر **بازار داخلی و کشورهای دوست** خواهند شد.  
 
-</header>
-
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
-
-## Welcome
-
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
-
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
-
-In this course, you will:
-
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
-
-### How to start this course
-
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+### **۳. آیا تولیدکنندگان ایرانی می‌توانند از این وضعیت بهره ببرند؟**  
+اگر ترامپ سیاست‌هایی را اجرا کند که عرضه سولفات نیکل را در بازار جهانی کاهش دهد، قیمت این محصول افزایش خواهد یافت. در چنین شرایطی، تولیدکنندگان ایرانی مانند **مواد پژوهان گوهرفام** می‌توانند با توسعه فناوری‌های داخلی و افزایش ظرفیت تولید، بخشی از این تقاضا را تأمین کنند. البته این موضوع مشروط به **دور زدن تحریم‌ها و یافتن شرکای تجاری جدید** خواهد بود.  
+https://goharfam.com/Products/%d8%b3%d9%88%d9%84%d9%81%d8%a7%d8%aa-%d9%86%db%8c%da%a9%d9%84-6-%d8%a2%d8%a8%d9%87/
+### **۴. نتیجه‌گیری**  
+بازگشت ترامپ به قدرت می‌تواند **بازار سولفات نیکل** را تحت تأثیر قرار داده و موجب افزایش قیمت‌ها، کاهش دسترسی به منابع نیکل و اعمال تحریم‌های جدید شود. این موضوع برای تولیدکنندگان ایرانی هم چالش و هم فرصت ایجاد می‌کند. **اگر ایران بتواند ظرفیت تولید داخلی را تقویت کند و شرکای تجاری جدیدی پیدا کند، ممکن است از این شرایط سود ببرد، اما در غیر این صورت، تحریم‌ها و محدودیت‌های تجاری می‌توانند مشکلات جدی ایجاد کنند.**https://goharfam.com/
